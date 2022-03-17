@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 189,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/src/glfw3.lib"
+			],
+			"targetId" : "glfw::@f0d00b3b2b1fd2972670",
+			"targetIndex" : 0,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/src",
+		"source" : "C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/src"
+	}
+}

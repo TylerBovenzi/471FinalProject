@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.2/bin/ninja/win/ninja.exe" -G Ninja "C:\Users\tyler\Desktop\471\quarter project"
+-- GLFW environment variable found
+-- Using Win32 for window creation
+-- GLM environment variable found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/tyler/Desktop/471/quarter project/cmake-build-debug

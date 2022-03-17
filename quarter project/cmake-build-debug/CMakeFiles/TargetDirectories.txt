@@ -1,0 +1,19 @@
+C:/Users/tyler/Desktop/471/quarter project/cmake-build-debug/CMakeFiles/lab_02.dir
+C:/Users/tyler/Desktop/471/quarter project/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/tyler/Desktop/471/quarter project/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/tyler/Desktop/471/quarter project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tyler/Desktop/471/quarter project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tyler/Desktop/471/quarter project/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/CMakeFiles/uninstall.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/CMakeFiles/install/local.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/CMakeFiles/install.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/CMakeFiles/edit_cache.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/CMakeFiles/list_install_components.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/src/CMakeFiles/list_install_components.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/src/CMakeFiles/update_mappings.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/src/CMakeFiles/glfw.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/src/CMakeFiles/install/local.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/src/CMakeFiles/install.dir
+C:/Users/tyler/Desktop/471/lib/glfw-3.3.6/debug/src/CMakeFiles/edit_cache.dir
